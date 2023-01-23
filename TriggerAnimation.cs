@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AnimationTrigger : MonoBehaviour
+public class TriggerAnimation : MonoBehaviour
 {
     public Animator animator;
     public string trigger;
